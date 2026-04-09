@@ -21,7 +21,6 @@ This repository provides a unified interface for the following security modules:
 ## 🚀 Main Installation & Usage
 
 ### 1. Clone the repository
-```bash
 git clone [https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS.git](https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS.git)
-cd IZ-OSINT-TOOLS
-
+cd IZ-OSINT-TOOLS 
+ 
