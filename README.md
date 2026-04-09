@@ -9,7 +9,7 @@ This suite centralizes high-end information gathering, tracking, and auditing to
 Here is the tool in action:
 
 <p align="center">
-  <img src="blob:https://web.whatsapp.com/f1f2cc4c-a54b-4256-9a34-257f271c225c" width="600" title="Main Menu">
+  <img src="aw.githubusercontent.com/Hiroxx-glichter/IZ-OSINT-TOOLS/refs/heads/main/Captura%20de%20pantalla%202026-04-08%20224242.png" width="600" title="Main Menu">
 </p>
 
 ---
