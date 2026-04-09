@@ -1,28 +1,35 @@
 # 🔍 IZ-OSINT-TOOLS v2.5
 
-Suite automatizada de herramientas **OSINT** diseñada específicamente para entornos **Parrot OS**. 🦜
-Este script centraliza el acceso a las mejores herramientas de recolección de información, rastreo y auditoría.
+An automated **OSINT** framework specifically optimized for **Parrot OS** environments. 🦜
+This suite centralizes high-end information gathering, tracking, and auditing tools into a single, professional terminal interface.
 
 ---
 
-## 🛠️ Herramientas Integradas
-El repositorio ya incluye las siguientes herramientas configuradas:
+## 📸 Screenshots
+Here is the tool in action:
 
-* **PhoneSploit-Pro**: Explotación remota de dispositivos Android vía ADB.
-* **FinalRecon**: Reconocimiento integral de objetivos web.
-* **Mr. Holmes**: Recolección de información de múltiples fuentes.
-* **GhostTrack**: Rastreo de direcciones IP y geolocalización.
-* **MedusaPhisher**: Framework avanzado para pruebas de Phishing.
-* **SocialScan**: Verificación de nombres de usuario y correos en redes sociales.
-* **SQLMap**: Detección y explotación de fallos de inyección SQL.
+<p align="center">
+  <img src="blob:https://web.whatsapp.com/f1f2cc4c-a54b-4256-9a34-257f271c225c" width="600" title="Main Menu">
+</p>
 
 ---
 
-## 🚀 Instalación y Configuración
+## 🛠️ Integrated Tools
+This repository provides a unified interface for the following security modules:
 
-Para tener todas las herramientas listas, sigue estos pasos en tu terminal de Parrot:
+* **PhoneSploit-Pro**: Remote Android device exploitation via ADB.
+* **FinalRecon**: All-in-one reconnaissance for web targets.
+* **Mr. Holmes**: Advanced info-gathering from multiple public sources.
+* **GhostTrack**: IP tracking and precise geographical data.
+* **MedusaPhisher**: High-performance phishing framework for security auditing.
+* **SocialScan**: Email and username availability checker across social platforms.
+* **SQLMap**: Automatic SQL injection and database takeover engine.
 
-### 1. Clonar el repositorio completo
+---
+
+## 🚀 Main Installation & Usage
+
+### 1. Clone the repository
 ```bash
 git clone [https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS.git](https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS.git)
 cd IZ-OSINT-TOOLS
