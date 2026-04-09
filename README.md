@@ -104,4 +104,4 @@ sqlmap -h
 ### This tool is developed for educational and ethical security auditing purposes only. The developer is not responsible for any misuse. Unauthorized access to target systems is strictly illegal and punishable by law
 
 ## Contact Discord
-### ![Discord](https://img.shields.io/badge/Discord-iz4cxz_by-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+### > **Discord**: `iz4cxz_by` (Add me as a friend and text me)
