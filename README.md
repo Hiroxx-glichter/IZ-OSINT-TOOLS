@@ -5,6 +5,13 @@ This suite centralizes high-end information gathering, tracking, and auditing to
 
 ---
 
+## 📸 Screenshots
+Here is the tool in action:
+
+<p align="center">
+  <img src= "https://github.com/user-attachments/assets/6093e338-f035-45b7-90f9-011b14fce4eb" width="600" title="Main Menu"> </p>
+---
+
 ## 🛠️ Integrated Tools
 This repository provides a unified interface for the following security modules:
 
@@ -24,12 +31,5 @@ This repository provides a unified interface for the following security modules:
 ```bash
 git clone [https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS.git](https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS.git)
 cd IZ-OSINT-TOOLS
----
 
-## 📦 Sub-Tools Download & Installation
-To use every feature in the menu, ensure the following tools are cloned inside your `~/OSINT/` directory:
-
-### **Mr. Holmes** (Setup & Execution)
-```bash
-git clone [https://github.com/Lucksi/Mr.Holmes.git](https://github.com/Lucksi/Mr.Holmes.git)
-cd Mr.Holmes && sudo python3 MrHolmes.py
+ 
