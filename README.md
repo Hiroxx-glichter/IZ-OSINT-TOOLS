@@ -24,45 +24,4 @@ This repository provides a unified interface for the following security modules:
 ```bash
 git clone [https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS.git](https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS.git)
 cd IZ-OSINT-TOOLS
-2. Install Critical Python Dependencies
-Run this to fix the ModuleNotFoundError for QR codes and other modules:
 
-Bash
-pip3 install pyqrcode pypng --break-system-packages
-3. Run the Main Menu
-Bash
-python3 IZ_OSINT_TOOLS.py
-📦 Sub-Tools Download & Installation
-To use every feature in the menu, ensure the following tools are cloned inside your ~/OSINT/ directory:
-
-Mr. Holmes (Setup & Execution)
-Bash
-git clone [https://github.com/Lucksi/Mr.Holmes.git](https://github.com/Lucksi/Mr.Holmes.git)
-cd Mr.Holmes && sudo python3 MrHolmes.py
-GhostTrack (Setup)
-Bash
-git clone [https://github.com/noob-hackers/ghosTR.git](https://github.com/noob-hackers/ghosTR.git)
-MedusaPhisher (Setup)
-Bash
-git clone [https://github.com/mohinparamasivam/MedusaPhisher.git](https://github.com/mohinparamasivam/MedusaPhisher.git)
-cd MedusaPhisher && sudo chmod +x medusa_phisher.sh && sudo bash medusa_phisher.sh
-PhoneSploit-Pro (Setup)
-Bash
-git clone [https://github.com/Z4nzu/PhoneSploit-Pro.git](https://github.com/Z4nzu/PhoneSploit-Pro.git)
-FinalRecon (Setup)
-Bash
-git clone [https://github.com/thewhiteh4t/FinalRecon.git](https://github.com/thewhiteh4t/FinalRecon.git)
-👨‍💻 Author Info
-Lead Developer: Iz4cxz_by
-
-GitHub: Hiroxx-glichter
-
-Project Status: Active / v2.5 Release
-
-⚖️ License & Ethics
-License: This project is for personal and educational use.
-
-Ethical Use: Only use this suite on systems you own or have explicit permission to test.
-
-⚠️ Legal Disclaimer
-This tool is developed for educational and ethical security auditing purposes only. The developer is not responsible for any misuse. Unauthorized access to target systems is strictly illegal and punishable by law.
