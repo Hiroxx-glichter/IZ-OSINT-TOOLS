@@ -5,15 +5,6 @@ This suite centralizes high-end information gathering, tracking, and auditing to
 
 ---
 
-## 📸 Screenshots
-Here is the tool in action:
-
-<p align="center">
-  <img src="aw.githubusercontent.com/Hiroxx-glichter/IZ-OSINT-TOOLS/refs/heads/main/Captura%20de%20pantalla%202026-04-08%20224242.png" width="600" title="Main Menu">
-</p>
-
----
-
 ## 🛠️ Integrated Tools
 This repository provides a unified interface for the following security modules:
 
