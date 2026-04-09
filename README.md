@@ -76,6 +76,19 @@ python3 phonesploitpro.py
 ```bash
 sudo apt install finalrecon
 ```
+### **SocialScan** (Setup)
+```bash
+pip3 install socialscan --break-system-packages
+``` 
+### **SocialScan** (Setup)
+```bash
+pip3 install socialscan --break-system-packages
+```
+### SQLMap (Pre-installed)
+SQLMap comes pre-installed in Parrot OS. You can run it directly:
+```bash
+sqlmap -h
+```
 # 👨‍💻 Author Info
 ### Lead Developer: Iz4cxz_by
 
@@ -89,3 +102,6 @@ sudo apt install finalrecon
 
 # ⚠️ Legal Disclaimer
 ### This tool is developed for educational and ethical security auditing purposes only. The developer is not responsible for any misuse. Unauthorized access to target systems is strictly illegal and punishable by law
+
+## Contact Discord
+### ![Discord](https://img.shields.io/badge/Discord-iz4cxz_by-7289DA?style=for-the-badge&logo=discord&logoColor=white)
