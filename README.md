@@ -28,8 +28,64 @@ This repository provides a unified interface for the following security modules:
 ## 🚀 Main Installation & Usage
 
 ### 1. Clone the repository
-bash
+```bash
 git clone [https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS.git](https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS.git)
-cd IZ-OSINT-TOOLS
----
- 
+cd IZ-OSINT-TOOLS ```
+ ```
+### 2. Install Critical Python Dependencies
+```bash
+pip3 install pyqrcode pypng --break-system-packages
+```
+## 3. Run the Main Menu
+ ```bash
+python3 IZ_OSINT_TOOLS.py
+ ```
+ # 📦 Sub-Tools Download & Installation
+Ensure these tools are cloned inside your ~/OSINT/ directory for full compatibility.
+### Mr. Holmes (Setup & Execution)
+```bash
+git clone https://github.com/Lucksi/Mr.Holmes
+cd Mr.Holmes
+sudo apt-get update
+sudo chmod +x install.sh
+sudo bash install.sh
+```
+### GhostTrack (Setup) 
+```bash 
+git clone https://github.com/HunxByts/GhostTrack.git
+cd GhostTrack
+pip3 install -r requirements.txt
+python3 GhostTR.py
+```
+### MedusaPhisher (Setup)
+```bash
+git clone https://github.com/Adrilaw/MedusaPhisher.git
+cd MedusaPhisher
+chmod +x  medusa_phisher.sh
+chmod +x  setup.sh
+sudo ./setup.sh
+```
+### PhoneSploit-Pro (Setup)
+```bash
+git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+cd PhoneSploit-Pro/
+pip install -r requirements.txt
+python3 phonesploitpro.py
+```
+### FinalRecon (Setup)
+```bash
+sudo apt install finalrecon
+```
+# 👨‍💻 Author Info
+### Lead Developer: Iz4cxz_by
+
+### GitHub: Hiroxx-glichter
+
+### Project Status: Active / v2.5 Release
+
+# ⚖️ License & Ethics
+### License: This project is for personal and educational use.
+### Ethical Use: Only use this suite on systems you own or have explicit permission to test.
+
+# ⚠️ Legal Disclaimer
+### This tool is developed for educational and ethical security auditing purposes only. The developer is not responsible for any misuse. Unauthorized access to target systems is strictly illegal and punishable by law
